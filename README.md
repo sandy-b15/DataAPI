@@ -1,5 +1,7 @@
 # DataAPI Platform
 
+https://github.com/user-attachments/assets/1170718a-55c0-4b6d-9102-705ed307d8ad
+
 A modern web application for managing API keys and storing data securely. Built with React, Node.js, and PostgreSQL.
 
 ## Table of Contents
